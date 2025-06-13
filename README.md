@@ -25,4 +25,4 @@ This project demonstrates my ability to leverage Power BI for financial data ana
 
 ### Screenshot
 Show what the Dashboard looks like- 
-(https://github.com/Nancyy06/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+[Dashboard Preview](https://github.com/Nancyy06/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
