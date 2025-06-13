@@ -24,4 +24,5 @@ Occupation Insights: Highlights professionals as the highest earners with an ave
 This project demonstrates my ability to leverage Power BI for financial data analysis, turning raw data into actionable insights. Check out the dashboard to explore how data analytics can enhance personal finance management
 
 ### Screenshot
-Show what the Dashboard looks like-
+Show what the Dashboard looks like- 
+(https://github.com/Nancyy06/Personal-Finance-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
