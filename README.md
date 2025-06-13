@@ -22,3 +22,6 @@ City Tier Trends: Shows Tier 1 cities with higher disposable income (e.g., 11.82
 Expense Breakdown: Identifies rent as the largest expense category at 29.46%, followed by groceries at 16.83%.
 Occupation Insights: Highlights professionals as the highest earners with an average income of 42.03K, compared to students at 41.78K.
 This project demonstrates my ability to leverage Power BI for financial data analysis, turning raw data into actionable insights. Check out the dashboard to explore how data analytics can enhance personal finance management
+
+### Screenshot
+Show what the Dashboard looks like-
